@@ -4,8 +4,10 @@ title: 刘 欢
 ---
 
 <img class=“fit-picture”
-src="file:///C:/Users/zhoul/Documents/github/felixhuan.github.io/images/liuhuan.jpg" alt="" width="157" data-align="center"
-alt="picture of attorney Liu Huan"/>
+src="C:\Users\zhoul\Documents\github\felixhuan.github.io\images\liuhuan.jpg"" 
+alt="picture of attorney liu huan" 
+width="157" 
+data-align="center" />
 
 ###### 律 师 | 专利代理师
 
