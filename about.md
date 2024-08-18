@@ -4,7 +4,7 @@ title: 刘 欢
 ---
 
 <img class=“fit-picture”
-src="C:\Users\zhoul\Documents\github\felixhuan.github.io\images\liuhuan.jpg"" 
+src="C:\Users\zhoul\Documents\github\felixhuan.github.io\images\liuhuan.png" 
 alt="picture of attorney liu huan" 
 width="157" 
 data-align="center" />
