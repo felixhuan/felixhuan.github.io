@@ -12,7 +12,7 @@
 
 确实，**在中国法律框架下**，如果您现在想申请“呼啦圈”商标，注册在<u>**第28类锻炼身体器械、玩具商品**</u>上，那是不可能获得注册的。商标局在一些评审案件中明确认定“呼啦圈”为上述产品类别的通用名称。
 
-![](C:\Users\zhoul\AppData\Roaming\marktext\images\2024-08-08-17-25-40-image.png)
+<img src="https://felixhuan.github.io/images/1-2.png" class="floatpic" width="360" height="240">
 
 ###### 中国法律框架下的商标退化抗辩法律规范：
 
@@ -44,10 +44,10 @@
 
 与中国商标法规定的商标通用化撤销类似，美国商标法Lanham Act § 14规定，“任何时候，当注册商标成为产品的通用名称时”，可向USPTO申请Cancellation撤销，撤销证据与通用化抗辩证据类似。
 
-<img title="" src="file:///C:/Users/zhoul/AppData/Roaming/marktext/images/2024-08-08-19-25-31-image.png" alt="" width="473" data-align="center">
+<img src="https://felixhuan.github.io/images/1-3.png" class="floatpic" width="360" height="240">
 
 ###### 启示
 
 通过上述介绍，在中美两国商标法实践中均有商标退化抗辩，且都需要大量的事实证据支撑。根据维基百科对Wham-O公司的介绍，该公司很多产品商标已经退化了，卖家朋友在应诉时可考虑检索既有判例，或有财大气粗的老板可以去挑战验证一下。
 
-![](C:\Users\zhoul\AppData\Roaming\marktext\images\2024-08-08-20-52-02-image.png)
+<img src="https://felixhuan.github.io/images/1-4.png" class="floatpic" width="360" height="240">
