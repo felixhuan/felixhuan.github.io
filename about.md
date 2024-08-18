@@ -3,12 +3,6 @@ layout: page
 title: 刘 欢
 ---
 
-<img class=“fit-picture”
-src="C:\Users\zhoul\Documents\github\felixhuan.github.io\images\liuhuan.png" 
-alt="picture of attorney liu huan" 
-width="157" 
-data-align="center" />
-
 ###### 律 师 | 专利代理师
 
 深圳市雲石知识产权代理有限公司
