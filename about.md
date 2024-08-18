@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 刘欢律师
+title: 刘欢律师简介
 ---
 
 <img title="" src="file:///C:/Users/zhoul/Documents/github/felixhuan.github.io/images/liuhuan.jpg" alt="" width="157" data-align="center">
 
-###### 刘 欢  律 师 | 专利代理师
+###### 律 师 | 专利代理师
 
 深圳市雲石知识产权代理有限公司
 
@@ -23,11 +23,11 @@ A：深圳市福田区中国凤凰大厦1幢A.B.C.D.E号
 
 ###### 教育背景
 
-美国Boston University法学院         知识产权                              LL.M.(2020)
+美国Boston University法学院//知识产权//LL.M.(2020)
 
-西南政法大学                                     知识产权                              法律硕士(2014)
+西南政法大学//知识产权//法律硕士(2014)
 
-沈阳理工大学                                     机械设计制造及其自动化   工学学士(2011)
+沈阳理工大学//机械设计制造及其自动化//工学学士(2011)
 
 ###### 工作语言
 
