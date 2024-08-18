@@ -1,5 +1,7 @@
 最近，笔者检索到Hula Hoop、FRISBEE商标权人Intersport Corp. d/b/a Wham-O在美国伊利诺伊州北区地方法院，针对跨境电商平台卖家发起了商标维权，案件基本信息如下：
 
+<img src="https://felixhuan.github.io/images/1-1.png" class="floatpic" width="360" height="240">
+
 原告Intersport Corp. d/b/a Wham-O是一家位于美国加利福利亚州Carson县，具有近70年历史的玩具公司，该公司因成功推出呼啦圈Hula Hoop、飞盘Frisbee等玩具而享有盛名。在商标维权方面，该公司对其Hula Hoop、Frisbee商标权屡次发起维权诉讼，两年来已不下十几起，不少中国跨境卖家被TRO。
 
 有跨境卖家朋友反映说，**Hula Hoop还能有商标？不是呼啦圈产品<u>*通用名称*</u>吗？**
