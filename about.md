@@ -3,7 +3,9 @@ layout: page
 title: 刘 欢
 ---
 
-<img title="" src="file:///C:/Users/zhoul/Documents/github/felixhuan.github.io/images/liuhuan.jpg" alt="" width="157" data-align="center">
+<img class=“fit-picture”
+src="file:///C:/Users/zhoul/Documents/github/felixhuan.github.io/images/liuhuan.jpg" alt="" width="157" data-align="center"
+alt="picture of attorney Liu Huan"/>
 
 ###### 律 师 | 专利代理师
 
