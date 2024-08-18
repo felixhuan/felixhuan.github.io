@@ -1,22 +1,64 @@
 ---
 layout: page
-title: About
+title: 刘欢律师
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img title="" src="file:///C:/Users/zhoul/Documents/github/felixhuan.github.io/images/liuhuan.jpg" alt="" width="157" data-align="center">
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+###### 刘 欢  律 师 | 专利代理师
 
-In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
+深圳市雲石知识产权代理有限公司
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
+T：+86 185 7646 9756 （同微信）
 
-Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
+E：liuhuan@cloudstoneip.com
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
+A：深圳市福田区中国凤凰大厦1幢A.B.C.D.E号
 
-Thanks for reading!
+###### 律师简介
+
+刘欢律师的主要执业领域是包括专利、商标、版权、商业秘密、不正当竞争在内的知识产权，及其他民商事争议解决、常年法律顾问业务。刘律师在知识产权领域耕耘多年。在执业律师之前，刘律师曾服务于酷派手机、中兴微电子等高科技公司，处理其负责业务部门的专利、商标等知识产权法律事务，如商标无效撤三、专利商标版权侵权案件、开源软件合规治理、标准必要专利许可谈判等。自2020年起。刘律师为不同领域的客户处理了多起具有代表意义的案件，如在头戴耳机领域，代表美国AUDEZE LLC公司成功无效其被抢注的字号商标，为其进入中国市场扫平障碍；在电子烟领域，代表某客户全部无效全球烟草巨头美国奥驰亚客户有限责任公司第20108003430.9号发明专利，另在某电子烟厂商对其原大股东提出的标的额超亿元的损害公司利益责任纠纷案件中，代理该电子烟厂商的经销商成功做不侵权抗辩，无需承担连带责任；在房地产领域，代表客户成功使深圳华侨城集团停止侵权，更正其项目大厦名称。凭借对法律的深刻理解级认真负责态度，刘律师赢得了众多客户的认可和信任。
+
+刘律师积极参与社会工作，担任江西省抚州市海外联谊会第三届理事会理事，北京开源芯片研究院知识产权委员会委员，同时是国际隐私保护权威机构IAPP认证的欧盟数据隐私保护专家（CIPP/E）。
+
+###### 教育背景
+
+美国Boston University法学院         知识产权                              LL.M.(2020)
+
+西南政法大学                                     知识产权                              法律硕士(2014)
+
+沈阳理工大学                                     机械设计制造及其自动化   工学学士(2011)
+
+###### 工作语言
+
+中文、英语
+
+###### 代表案例
+
+1. 代表客户无效第201620628454.8号实用新型专利，全部无效
+
+2. 代表客户无效第201621315489.2号实用新型专利，全部无效
+
+3. 代表客户无效第201720820148.9号实用新型专利，部分无效
+
+4. 代表客户无效第201721414356.5号实用新型专利，全部无效
+
+5. 代表客户无效第201080003430.9号发明专利，全部无效
+
+6. 代表客户无效宁德时代第201521112402.7号实用新型专利，虽未成功，但对该专利有效性构成严重挑战
+
+7. 代表客户无效第12859279、25007775、30221407号“AUDEZE”、“AUDEEZE”商标，全部无效
+
+8. 在（2019）粤73知民初1251号“净水器水路板”发明专利侵权纠纷一案中代理被告，以不侵权抗辩胜诉
+
+9. 在（2020）粤03民初5548号损害公司利益责任纠纷一案中代理第三人，案涉超亿元，以不侵权抗辩胜诉
+
+10. 在（2021）粤0304民初37159号侵害商标权纠纷一案中代理被告，以被告属于合法分销及原告不具有诉权为抗辩胜诉
+
+11. 在（2021）粤03民初5637号不正当竞争侵权纠纷一案中代理原告，以被告删除对原告产品的不正当燕林、赔礼道歉，并赔偿原告损失30万元的方式和解胜诉
+
+12. 在（2022）粤0306民初10620号侵害商标权纠纷一案中代理被告，在原告诉请80余万元赔偿额的请求下，以被告侵权销售主观恶意小、持续时间短、销量少为抗辩，获法院较低判赔
+
+13. 在（2023）粤0306民初28665号侵害商标权纠纷一案中代理原告，成功促使被告华侨城公司停止商标侵权，更正其项目大厦名称
+
+14. 在（2024）粤0307民初3266号买卖合同纠纷一案中代理原告，成功促使被告履行合同付款义务，原告目的全部实现
