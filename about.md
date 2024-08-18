@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 刘欢律师简介
+title: 刘欢
 ---
 
 <img title="" src="file:///C:/Users/zhoul/Documents/github/felixhuan.github.io/images/liuhuan.jpg" alt="" width="157" data-align="center">
