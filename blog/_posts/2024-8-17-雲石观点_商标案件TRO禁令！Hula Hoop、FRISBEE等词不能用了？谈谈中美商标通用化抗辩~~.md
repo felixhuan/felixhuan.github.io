@@ -1,4 +1,4 @@
-##### 雲石观点 | 商标案件TRO禁令！Hula Hoop、FRISBEE等词不能用了？谈谈中美商标退化Genericide抗辩~~
+
 
 最近，笔者检索到Hula Hoop、FRISBEE商标权人Intersport Corp. d/b/a Wham-O在美国伊利诺伊州北区地方法院，针对跨境电商平台卖家发起了商标维权，案件基本信息如下：
 
