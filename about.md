@@ -3,7 +3,7 @@ layout: page
 title: 刘 欢
 ---
 
-<img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="256" height="360">
+<img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="160" height="240">
 
 ###### 律 师 | 专利代理师
 
