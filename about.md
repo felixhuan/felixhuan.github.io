@@ -5,7 +5,7 @@ title: 刘 欢
 
 <img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="160" height="240">
 
-律 师 | 专利代理师
+中国执业律师及专利代理师
 
 **广东商达律师事务所**
 
