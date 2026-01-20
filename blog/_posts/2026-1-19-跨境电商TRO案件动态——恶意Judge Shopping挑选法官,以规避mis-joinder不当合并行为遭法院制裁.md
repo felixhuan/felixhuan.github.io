@@ -1,5 +1,3 @@
-# 
-
 2026年1月12日，美国伊利诺伊州北区联邦地院John Robert Blakey法官，在1:2025-cv-13829号商标侵权Schedule A案件中，对原告代理律所Greer, Burns & Crain, Ltd.恶意实施Judge Shopping挑选法官,以规避mis-joinder不当合并行为做出dismiss with prejudice撤销案件，不得再诉裁定。
 
 ##### **原告律所做了什么，导致法官勃然大怒？**
