@@ -11,7 +11,7 @@ title: 刘 欢 Huan Liu, Esq.
 
 美国专利商标局USPTO备案商标律师
 
-IAPP认证欧盟数据隐私保护专家CIPP/E
+欧盟数据隐私保护专家CIPP/E
 
 **广东商达律师事务所**
 
