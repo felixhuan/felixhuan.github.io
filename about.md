@@ -5,23 +5,15 @@ title: 刘 欢 Huan Liu, Esq.
 
 <img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="160" height="240">
 
-<div style="text-align: justify;">
+<div align="justify">中国执业律师及专利代理师
 
-中国执业律师及专利代理师
+<justify>
 
-<div style="text-align: justify;">
+<div align="justify">美国纽约州注册律师，得克萨斯州执业律师（pending）
 
-美国纽约州注册律师，得克萨斯州执业律师（pending）
+<div align="justify">美国专利商标局USPTO备案商标律师
 
-<div style="text-align: justify;">
-
-美国专利商标局USPTO备案商标律师
-
-<div style="text-align: justify;">
-
-欧盟数据隐私保护专家CIPP/E
-
-
+<div align="justify">欧盟数据隐私保护专家CIPP/E
 
 **广东商达律师事务所**
 
@@ -43,15 +35,9 @@ title: 刘 欢 Huan Liu, Esq.
 
 ###### 教育背景
 
-<div style="text-align: justify;">
-
 美国Boston University法学院//知识产权//LL.M.(2020)
 
-<div style="text-align: justify;">
-
 西南政法大学//知识产权//法律硕士(2014)
-
-<div style="text-align: justify;">
 
 沈阳理工大学//机械设计制造及其自动化//工学学士(2011)
 
@@ -61,19 +47,11 @@ title: 刘 欢 Huan Liu, Esq.
 
 ###### 荣誉职务
 
-<div style="text-align: justify;">
-
-1、江西省抚州市海外联谊会第三届理事会理事，2023
-
-<div style="text-align: justify;">
+1、江西抚州市海外联谊会第三届理事会理事，2023
 
 2、北京开源芯片研究院知识产权委员会委员，2024
 
-<div style="text-align: justify;">
-
 3、第六批广东省涉外律师新锐人才，2025
-
-<div style="text-align: justify;">
 
 4、第七批深圳市涉外律师新锐人才，2025
 
