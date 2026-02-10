@@ -31,7 +31,7 @@ title: 刘 欢 Huan Liu, Esq.
 
 ###### 教育背景
 
-▪ 美国Boston University School of Law，法学硕士LL.M，2020
+▪ 美国波士顿大学法学院，法学硕士LL.M.，2020
 
 ▪ 西南政法大学，法律硕士J.M.，2014
 
