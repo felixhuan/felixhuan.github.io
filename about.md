@@ -43,29 +43,29 @@ margin-bottom: 30px;
 
 <p style="text-align: justify; font-weight: bold;"> 律师简介</p>
 
-刘欢律师毕业于美国波士顿大学法学院Boston University School of Law，获知识产权法硕士学位。刘律师的执业领域是中、美两地专利、商标、版权、商业秘密、不正当竞争等知识产权保护和争议解决，及涉外民商事纠纷诉讼、仲裁，特别是跨境电商行业的知识产权和民商事法律服务。刘律师具有10年以上法律服务经验，曾服务于ZTE、CoolPad等高科技企业，已成功代理多起重大、典型案件，如中创新航与宁德时代新能源动力电池相关专利诉讼、无效案件、中国南山集团与华侨城“宝湾大厦”商标侵权案、美国烟草巨头Altria Group, Inc.在中国专利无效案、及美国高端耳机品牌商Audeze LLC在中国商标无效案，且在10余起中国跨境卖家的美国专利应诉案中，取得包括美国白人律师被判赔偿被告律师费的成功实践。
+<p style="text-align: justify;">刘欢律师毕业于美国波士顿大学法学院Boston University School of Law，获知识产权法硕士学位。刘律师的执业领域是中、美两地专利、商标、版权、商业秘密、不正当竞争等知识产权保护和争议解决，及涉外民商事纠纷诉讼、仲裁，特别是跨境电商行业的知识产权和民商事法律服务。刘律师具有10年以上法律服务经验，曾服务于ZTE、CoolPad等高科技企业，已成功代理多起重大、典型案件，如中创新航与宁德时代新能源动力电池相关专利诉讼、无效案件、中国南山集团与华侨城“宝湾大厦”商标侵权案、美国烟草巨头Altria Group, Inc.在中国专利无效案、及美国高端耳机品牌商Audeze LLC在中国商标无效案，且在10余起中国跨境卖家的美国专利应诉案中，取得包括美国白人律师被判赔偿被告律师费的成功实践。</p>
 
 <p style="text-align: justify; font-weight: bold;">教育背景</p>
 
-美国波士顿大学法学院，法学硕士LL.M.，2020</p>
+<p style="text-align: justify;">美国波士顿大学法学院，法学硕士LL.M.，2020</p>
 
-西南政法大学，法律硕士J.M.，2014</p>
+<p style="text-align: justify;">西南政法大学，法律硕士J.M.，2014</p>
 
-沈阳理工大学，工学学士B.S.，2011</p>
+<p style="text-align: justify;">沈阳理工大学，工学学士B.S.，2011</p>
 
 <p style="text-align: justify; font-weight: bold;">工作语言</p>
 
-中文、英语</p>
+<p style="text-align: justify;">中文、英语</p>
 
 <p style="text-align: justify; font-weight: bold;">荣誉职务</p>
 
-江西抚州市海外联谊会第三届理事会理事，2023</p>
+<p style="text-align: justify;">江西抚州市海外联谊会第三届理事会理事，2023</p>
 
-北京开源芯片研究院知识产权委员会委员，2024</p>
+<p style="text-align: justify;">北京开源芯片研究院知识产权委员会委员，2024</p>
 
-第六批广东省涉外律师新锐人才，2025</p>
+<p style="text-align: justify;">第六批广东省涉外律师新锐人才，2025</p>
 
-第七批深圳市涉外律师新锐人才，2025</p>
+<p style="text-align: justify;">第七批深圳市涉外律师新锐人才，2025</p>
 
 <p style="text-align: justify; font-weight: bold;">代表案例</p>
 
