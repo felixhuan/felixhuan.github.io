@@ -25,7 +25,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;">中国执业律师及专利代理师</p>
 
-<p style="text-align: justify;">美国纽约州注册律师，得克萨斯州执业律师（pending）</p>
+<p style="text-align: justify;"><span style="color: #0366d6; ">美国纽约州注册律师，得克萨斯州执业律师（pending）</span></p>
 
 <p style="text-align: justify;">美国专利商标局USPTO备案商标律师</p>
 
