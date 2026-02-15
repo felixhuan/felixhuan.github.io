@@ -32,7 +32,7 @@ date: 2024-08-17 09:00:00 +0800
 
 <p style="text-align: justify;">原告Intersport Corp. d/b/a Wham-O是一家位于美国加利福利亚州Carson县，具有近70年历史的玩具公司，该公司因成功推出呼啦圈Hula Hoop、飞盘Frisbee等玩具而享有盛名。在商标维权方面，该公司对其Hula Hoop、Frisbee商标权屡次发起维权诉讼，两年来已不下十几起，不少中国跨境卖家被TRO。</p>
 
-<p style="text-align: justify; font-weight: bold; "> 惊叹：Hula Hoop还能有商标？不是呼啦圈产品通用名称*吗？</p>
+<p style="text-align: justify; font-weight: bold; border-bottom: 2px solid #0366d6;  padding-bottom: 8px; margin-bottom: 15px;"> 惊叹：Hula Hoop还能有商标？不是呼啦圈产品通用名称*吗？</p>
 
 <p style="text-align: justify;">据笔者检索，Hula Hoop、FRISBEE原本没有词典含义，是Wham-O公司臆造的词汇，属于*Abercrombie* Classfication中显著性最高的Fanciful类别（*Abercrombie* Classfication内容详见：），故Hula Hoop、FRISBEE于1958年获得了美国注册商标，通过商标续展，至今有效。</p>
 
@@ -42,7 +42,7 @@ date: 2024-08-17 09:00:00 +0800
 
 <img title="" src="https://felixhuan.github.io/images/1-2.png" alt="" class="floatpic" width="360" height="240" data-align="center">
 
-<p style="text-align: justify; font-weight: bold; "> 中国法律框架下的商标退化抗辩法律规范</p>
+<p style="text-align: justify; font-weight: bold; border-bottom: 2px solid #0366d6;  padding-bottom: 8px; margin-bottom: 15px;"> 中国法律框架下的商标退化抗辩法律规范</p>
 
 <p style="text-align: justify;">《商标法》(2019)第59条是我国商标退化抗辩的法律基础，其规定，“注册商标中含有的本商品的通用名称、图形、型号，或者直接表示商品的质量、主要原料、功能、用途、重量、数量及其他特点，或者含有地名，注册商标专用权人无权禁止他人正当使用。“</p>
 
@@ -58,13 +58,13 @@ date: 2024-08-17 09:00:00 +0800
 
 <p style="text-align: justify;">面对通用名称的商标侵权，除做退化抗辩外，被诉侵权人还可根据《商标法》(2019)第49条的规定，以通用名称为由向商标局申请撤销。</p>
 
-<p style="text-align: justify; font-weight: bold; ">美国法律框架下的Genericide判断标准</p>
+<p style="text-align: justify; font-weight: bold; border-bottom: 2px solid #0366d6;  padding-bottom: 8px; margin-bottom: 15px;">美国法律框架下的Genericide判断标准</p>
 
 <p style="text-align: justify;">美国法律下商标退化的术语为genericide，通过表示“杀”的词根-cide，形象表达了注册商标“被杀死”，失去显著性而变成*Abercrombie* Classfication中的generic词汇。</p>
 
 <p style="text-align: justify;">美国Genericide经典案例是“Aspirin”商标退化案，即由Judge Learned Hand裁决的*Bayer Co. v. United Drug*案。通过该案，美国法院确立了“Who are you / What are you”的商标退化判断标准，即原被告双方如何向法院证明如下问题的答案：</p>
 
-<p style="text-align: justify; font-weight: bold; ">“What do the buyers understand by the word for whose use the parties are contending?”——消费者对原被告双方争议的商标是如何理解的？</p>
+<p style="text-align: justify;">“What do the buyers understand by the word for whose use the parties are contending?”——消费者对原被告双方争议的商标是如何理解的？</p>
 
 <p style="text-align: justify;">如果原告证明，消费者通常将Aspirin作为商品来源标识的，商标将继续有效；如果被告证明，消费者通常将Aspirin认为商品名称的，那么商标退化，得不到法律保护。</p>
 
