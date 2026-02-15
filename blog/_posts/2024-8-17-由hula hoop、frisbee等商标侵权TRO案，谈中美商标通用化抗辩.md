@@ -28,7 +28,7 @@ date: 2024-08-17 09:00:00 +0800
 
 <p style="text-align: justify;">最近，笔者检索到Hula Hoop、FRISBEE商标权人Intersport Corp. d/b/a Wham-O在美国伊利诺伊州北区地方法院，针对跨境电商平台卖家发起了商标维权，案件基本信息如下：</p>
 
-<img title="" src="https://felixhuan.github.io/images/1-1.png" alt="" class="floatpic" width="360" height="240" data-align="center">
+<img title="" src="https://cloudstoneip.com/images/1-1.png" alt="" class="floatpic" width="360" height="240" data-align="center">
 
 <p style="text-align: justify;">原告Intersport Corp. d/b/a Wham-O是一家位于美国加利福利亚州Carson县，具有近70年历史的玩具公司，该公司因成功推出呼啦圈Hula Hoop、飞盘Frisbee等玩具而享有盛名。在商标维权方面，该公司对其Hula Hoop、Frisbee商标权屡次发起维权诉讼，两年来已不下十几起，不少中国跨境卖家被TRO。</p>
 
@@ -40,7 +40,7 @@ date: 2024-08-17 09:00:00 +0800
 
 <p style="text-align: justify;">确实，在中国法律框架下，如果您现在想申请“呼啦圈”商标，注册在<u>**第28类锻炼身体器械、玩具商品**</u>上，那是不可能获得注册的。商标局在一些评审案件中明确认定“呼啦圈”为上述产品类别的通用名称。</p>
 
-<img title="" src="https://felixhuan.github.io/images/1-2.png" alt="" class="floatpic" width="360" height="240" data-align="center">
+<img title="" src="https://cloudstoneip.com/images/1-2.png" alt="" class="floatpic" width="360" height="240" data-align="center">
 
 <p style="text-align: justify; font-weight: bold; border-bottom: 2px solid #0366d6;  padding-bottom: 8px; margin-bottom: 15px;"> 中国法律框架下的商标退化抗辩法律规范</p>
 
@@ -72,10 +72,10 @@ date: 2024-08-17 09:00:00 +0800
 
 <p style="text-align: justify;">与中国商标法规定的商标通用化撤销类似，美国商标法Lanham Act § 14规定，“任何时候，当注册商标成为产品的通用名称时”，可向USPTO申请Cancellation撤销，撤销证据与通用化抗辩证据类似。</p>
 
-<img title="" src="https://felixhuan.github.io/images/1-3.png" alt="" class="floatpic" width="360" height="240" data-align="center">
+<img title="" src="https://cloudstoneip.com/images/1-3.png" alt="" class="floatpic" width="340" height="240" data-align="center">
 
 <p style="text-align: justify; font-weight: bold; border-bottom: 2px solid #0366d6;  padding-bottom: 8px; margin-bottom: 15px;"> 启示</p>
 
 <p style="text-align: justify;">通过上述介绍，在中美两国商标法实践中均有商标退化抗辩，且都需要大量的事实证据支撑。根据维基百科对Wham-O公司的介绍，该公司很多产品商标已经退化了，卖家朋友在应诉时可考虑检索既有判例，或有财大气粗的老板可以去挑战验证一下。</p>
 
-<img title="" src="https://felixhuan.github.io/images/1-4.png" alt="" class="floatpic" width="360" height="240" data-align="center">
+<img title="" src="https://cloudstoneip.com/images/1-4.png" alt="" class="floatpic" width="529" height="240" data-align="center">
