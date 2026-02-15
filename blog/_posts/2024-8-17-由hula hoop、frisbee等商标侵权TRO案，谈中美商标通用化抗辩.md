@@ -72,9 +72,9 @@ date: 2024-08-17 09:00:00 +0800
 
 <p style="text-align: justify;">与中国商标法规定的商标通用化撤销类似，美国商标法Lanham Act § 14规定，“任何时候，当注册商标成为产品的通用名称时”，可向USPTO申请Cancellation撤销，撤销证据与通用化抗辩证据类似。</p>
 
-<img src="https://felixhuan.github.io/images/1-3.png" class="floatpic" width="360" height="240">
+<img title="" src="https://felixhuan.github.io/images/1-3.png" alt="" class="floatpic" width="360" height="240" data-align="center">
 
-<p style="text-align: justify; font-weight: bold; "> 启示</p>
+<p style="text-align: justify; font-weight: bold; border-bottom: 2px solid #0366d6;  padding-bottom: 8px; margin-bottom: 15px;"> 启示</p>
 
 <p style="text-align: justify;">通过上述介绍，在中美两国商标法实践中均有商标退化抗辩，且都需要大量的事实证据支撑。根据维基百科对Wham-O公司的介绍，该公司很多产品商标已经退化了，卖家朋友在应诉时可考虑检索既有判例，或有财大气粗的老板可以去挑战验证一下。</p>
 
