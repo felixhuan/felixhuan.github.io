@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "研习 || 由hula hoop、frisbee等商标侵权TRO案，谈中美商标通用化抗辩"
 date: 2024-08-17 09:00:00 +0800
-
 ---
 
 >  作者：刘欢律师
