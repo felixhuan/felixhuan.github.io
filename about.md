@@ -23,23 +23,23 @@ margin-bottom: 30px;
 }
 </style>
 
-中国执业律师及专利代理师</p>
+<p style="text-align: justify;">中国执业律师及专利代理师</p>
 
-美国纽约州注册律师，得克萨斯州执业律师（pending）</p>
+<p style="text-align: justify;">美国纽约州注册律师，得克萨斯州执业律师（pending）</p>
 
-美国专利商标局USPTO备案商标律师</p>
+<p style="text-align: justify;">美国专利商标局USPTO备案商标律师</p>
 
-欧盟数据隐私保护专家CIPP/E</p>
+<p style="text-align: justify;">欧盟数据隐私保护专家CIPP/E</p>
 
 <p style="text-align: justify; font-weight: bold;"> 广东商达律师事务所</p>
 
-**T**：+86 185 7646 9756 （同微信）</p>
+<p style="text-align: justify;  color: #0366d6;">T：+86 185 7646 9756 （同微信）</p>
 
-**E**：liuhuan@cloudstoneip.com</p>
+<p style="text-align: justify;  color: #0366d6;">E：liuhuan@cloudstoneip.com</p>
 
-**w**：https://cloudstoneip.com</p>
+<p style="text-align: justify;  color: #0366d6;">W：https://cloudstoneip.com</p>
 
-**A** ：中国广东省深圳市福田区深南大道2008号凤凰大厦1栋9层</p>
+<p style="text-align: justify;  color: #0366d6;">A ：中国广东省深圳市福田区深南大道2008号凤凰大厦1栋9层</p>
 
 ###### 律师简介
 
