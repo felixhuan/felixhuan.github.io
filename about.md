@@ -5,27 +5,43 @@ title: 刘 欢 Huan Liu, Esq.
 
 <img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="160" height="240">
 
-中国执业律师及专利代理师
+<style>  
+.justify {    
+text-align: justify;    
+line-height: 2.8;    
+margin-bottom: 1.2em;  
+}  
+.center {    
+text-align: center;  
+}  
+.image-caption {   
+ text-align: center;    
+color: #666;    
+font-size: 14px;   
+ margin-top: 8px;    
+margin-bottom: 30px;  
+}
+</style>
 
-美国纽约州注册律师，得克萨斯州执业律师（pending）
+中国执业律师及专利代理师</p>
 
-美国专利商标局USPTO备案商标律师
+美国纽约州注册律师，得克萨斯州执业律师（pending）</p>
 
-欧盟数据隐私保护专家CIPP/E
+美国专利商标局USPTO备案商标律师</p>
 
-###### 广东商达律师事务所
+欧盟数据隐私保护专家CIPP/E</p>
 
-**T**：+86 185 7646 9756 （同微信）
+<p style="text-align: justify; font-weight: bold;"> 广东商达律师事务所</p>
 
-**E**：liuhuan@cloudstoneip.com
+**T**：+86 185 7646 9756 （同微信）</p>
 
-**w**：https://cloudstoneip.com
+**E**：liuhuan@cloudstoneip.com</p>
 
-**A** ：中国广东省深圳市福田区深南大道2008号凤凰大厦1栋9层
+**w**：https://cloudstoneip.com</p>
+
+**A** ：中国广东省深圳市福田区深南大道2008号凤凰大厦1栋9层</p>
 
 ###### 律师简介
-
-<div style="text-align: justify;">
 
 刘欢律师毕业于美国波士顿大学法学院Boston University School of Law，获知识产权法硕士学位。刘律师的执业领域是中、美两地专利、商标、版权、商业秘密、不正当竞争等知识产权保护和争议解决，及涉外民商事纠纷诉讼、仲裁，特别是跨境电商行业的知识产权和民商事法律服务。刘律师具有10年以上法律服务经验，曾服务于ZTE、CoolPad等高科技企业，已成功代理多起重大、典型案件，如中创新航与宁德时代新能源动力电池相关专利诉讼、无效案件、中国南山集团与华侨城“宝湾大厦”商标侵权案、美国烟草巨头Altria Group, Inc.在中国专利无效案、及美国高端耳机品牌商Audeze LLC在中国商标无效案，且在10余起中国跨境卖家的美国专利应诉案中，取得包括美国白人律师被判赔偿被告律师费的成功实践。
 
