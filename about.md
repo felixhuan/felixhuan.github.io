@@ -65,7 +65,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;">深圳市涉外律师新锐人才，2025</p>
 
-<p style="text-align: justify;">广东省涉外知识产权人才库，2026</p>
+<p style="text-align: justify;">广东省涉外知识产权人才，2026</p>
 
 <p style="text-align: justify; font-weight: bold;">代表案例</p>
 
