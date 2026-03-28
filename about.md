@@ -49,7 +49,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;">西南政法大学，法律硕士J.M.，2014</p>
 
-<p style="text-align: justify;">沈阳理工大学，工学学士B.S.，2011</p>
+<p style="text-align: justify;">沈阳理工大学，工学学士B.E.，2011</p>
 
 <p style="text-align: justify; font-weight: bold;">工作语言</p>
 
@@ -61,9 +61,11 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;">北京开源芯片研究院知识产权委员会委员，2024</p>
 
-<p style="text-align: justify;">第六批广东省涉外律师新锐人才，2025</p>
+<p style="text-align: justify;">广东省涉外律师新锐人才，2025</p>
 
-<p style="text-align: justify;">第七批深圳市涉外律师新锐人才，2025</p>
+<p style="text-align: justify;">深圳市涉外律师新锐人才，2025</p>
+
+<p style="text-align: justify;">广东省涉外知识产权人才库，2026</p>
 
 <p style="text-align: justify; font-weight: bold;">代表案例</p>
 
