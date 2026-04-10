@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 刘 欢 Huan Liu
+title: 刘 欢 Huan Liu, Esq.
 ---
 
 <img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="160" height="240">
@@ -23,7 +23,7 @@ margin-bottom: 30px;
 }
 </style>
 
-<p style="text-align: justify;"><span style="color:#800080; ">中国执业律师，美国纽约州律师资格</span></p>
+<p style="text-align: justify;"><span style="color:#800080; ">中国，美国纽约州律师资格</span></p>
 
 <p style="text-align: justify;">中国专利代理师、美国USPTO商标律师</p>
 
