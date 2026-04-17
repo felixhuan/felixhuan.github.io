@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 刘 欢 HUAN LIU, Esq
+title: 刘 欢 HUAN LIU, Esq.
 ---
 
 <img src="https://felixhuan.github.io/images/liuhuan.jpg" class="floatpic" wiidth="160" height="240">
