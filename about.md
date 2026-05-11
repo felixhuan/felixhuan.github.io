@@ -25,7 +25,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;"><span style="color:#800080; ">中国，美国纽约州、德州（pending）执业律师</span></p>
 
-<p style="text-align: justify;">美国伊利诺伊州北区联邦地区法院出庭资格General Bar</p >
+<p style="text-align: justify;">美国伊利诺伊州北区联邦法院出庭资格General Bar</p >
 
 <p style="text-align: justify;">中国专利代理师、美国USPTO商标律师</p>
 
