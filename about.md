@@ -35,7 +35,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;  color: #0366d6;">T：+86 185 7646 9756 （同微信）</p>
 
-<p style="text-align: justify;  color: #0366d6;">E：liuhuan@cloudstoneip.com</p>
+<p style="text-align: justify;  color: #0366d6;">E：huan.liu@cloudstonelaw.com</p>
 
 <p style="text-align: justify;  color: #0366d6;">W：https://cloudstoneip.com</p>
 
