@@ -23,7 +23,7 @@ margin-bottom: 30px;
 }
 </style>
 
-<p style="text-align: justify;"><span style="color:#800080; ">中国，美国纽约州、德州（pending）执业律师</span></p>
+<p style="text-align: justify;"><span style="color:#800080; ">中国，美国纽约州、德州执业律师</span></p>
 
 <p style="text-align: justify;">美国伊利诺伊州北区联邦法院出庭资格General Bar</p >
 
