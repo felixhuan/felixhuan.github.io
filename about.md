@@ -31,7 +31,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;">欧盟数据隐私保护专家CIPP/E</p>
 
-<p style="text-align: justify; font-weight: bold;"> 广东商达律师事务所</p>
+<p style="text-align: justify; font-weight: bold;"> 美国雲石律师事务所CloudStone Law PLLC 创始合伙人</p>
 
 <p style="text-align: justify;  color: #0366d6;">T：+86 185 7646 9756 （同微信）</p>
 
