@@ -25,7 +25,7 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;"><span style="color:#800080; ">中国，美国纽约州、德州执业律师</span></p>
 
-<p style="text-align: justify;">美国伊利诺伊州北区联邦法院出庭资格General Bar</p >
+<p style="text-align: justify;">美国伊利诺伊州北区、德州东区联邦法院出庭资格</p >
 
 <p style="text-align: justify;">中国专利代理师、美国USPTO商标律师</p>
 
@@ -69,7 +69,13 @@ margin-bottom: 30px;
 
 <p style="text-align: justify;">广东省涉外知识产权人才，2026</p>
 
+<p style="text-align: justify;">ALB年度华南华中地区涉外业务律师、知识产权律师大奖，2026</p>
+
 <p style="text-align: justify; font-weight: bold;">代表案例</p>
+
+<p style="text-align: justify;">▪ 在1:2026-cv-03**0美国外观专利侵权案中，为中国跨境电商卖家提供应诉抗辩法律服务，以送达不充分、专利无效抗辩，成功撤销原告TRO及PI禁令，案件以撤案结案，免于高额和解金。</p>
+
+<p style="text-align: justify;">▪ 在(2026)粤03民初4**9案因恶意提起知识产权诉讼损害责任纠纷一案中代理被告，主张被告在美国伊利诺伊州北区联邦地区法院的起诉尚未审结，且国内诉讼的实体问题与在伊州北区案件一致，国内法院对未结美国诉讼没有管辖权，顺利迫使国内案件撤诉，使客户在美国案件不受国内诉讼影响</p>
 
 <p style="text-align: justify;">▪ 在1:2024-cv-06**8美国外观专利侵权案中，为中国跨境卖家提供专利不侵权、TRO禁令异议、应诉及和解法律咨询</p>
 
